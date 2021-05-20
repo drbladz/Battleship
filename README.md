@@ -1,1 +1,1 @@
-# Battleship
+This is a simulation of a Battleship game between a user and a computer. The user places 6 ships and 4 grenades in different coordinates and the same thing goes for the computer where he randomly places them. The player who sinks all the boats of the opponent wins the game. This program was written in Java on Eclipse IDE.
